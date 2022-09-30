@@ -31,7 +31,7 @@ Free stock trading returns and valuation. Yahoo Finance API and yFinance
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following:
 
 ```bash
-pip install yfinance
+pip install yfinance --upgrade --no-cache-dir
 
 import pandas as pd
 import numpy as np
