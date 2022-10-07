@@ -16,13 +16,21 @@
 Free stock trading returns and valuation. Yahoo Finance API and yFinance
 
 
-## StockReturns.py graphical output
+## 01. StockReturns.py output
 
 <p align="center">
-    <img width=50% src="https://github.com/enginance/WallStreetBets/blob/main/images/StockReturns_Netflix_cum_return.png">
-    <img width=50% src="https://github.com/enginance/WallStreetBets/blob/main/images/StockReturns_Netflix_price.png">
-    <img width=50% src="https://github.com/enginance/WallStreetBets/blob/main/images/StockReturns_stock_comp.png">
-    <img width=50% src="https://github.com/enginance/WallStreetBets/blob/main/images/StockReturns_stock_comp_02.png">
+    <img width=40% src="https://github.com/enginance/Wall-Street-Bets/blob/main/images/StockReturns_Netflix_cum_return.png">
+    <img width=40% src="https://github.com/enginance/Wall-Street-Bets/blob/main/images/StockReturns_Netflix_price.png">
+    <img width=40% src="https://github.com/enginance/Wall-Street-Bets/blob/main/images/StockReturns_stock_comp.png">
+    <img width=40% src="https://github.com/enginance/Wall-Street-Bets/blob/main/images/StockReturns_stock_comp_02.png">
+</p>
+
+
+## 02. StockFundamentals.py output
+
+<p align="center">
+    <img width=40% src="https://github.com/enginance/Wall-Street-Bets/blob/main/images/StockFundamentals_01.PNG">
+    <img width=50% src="https://github.com/enginance/Wall-Street-Bets/blob/main/images/StockFundamentals_02.PNG">
 </p>
 
 
